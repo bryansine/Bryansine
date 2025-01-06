@@ -1,17 +1,20 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://bryansine.io)
 <h1 align="center">Hi 👋, I'm Bryan sine</h1>
 <h3 align="center">A Software Engineer from Nairobi, Kenya</h3>
-<img align="right" alt="coding" width "400" src="https://gifdb.com/images/high/fast-green-stream-coding-kjuq7exuta2jv16v.gif>
-
+<!-- <img align="right" alt="coding" width "400" src="https://gifdb.com/images/high/fast-green-stream-coding-kjuq7exuta2jv16v.gif>
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryansine&label=Profile%20views&color=0e75b6&style=flat" alt="bryansine" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryansine" alt="bryansine" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bryansine" target="blank"><img src="https://img.shields.io/twitter/follow/bryansine?logo=twitter&style=for-the-badge" alt="bryansine" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering at ALX- Africa**
+<h4>About me </h4>
+As a backend developer with a strong foundation in software engineering, I thrive on solving complex problems and building scalable, efficient applications. I am a proud graduate of the prestigious ALX Software Engineering Program, where I honed my skills in backend development, mastering modern tools and methodologies to deliver impactful solutions.
 
-- 👯 I’m looking to collaborate on **Product Design UI/UX, Web Development, Object Oriented Design, Mobile app development, Data Science, Data Analytics and AI**
+Currently, I am delving deeper into the world of Django APIs, exploring advanced concepts in Django, and expanding my knowledge in data engineering to broaden my technical expertise. My journey also includes collaborating with a vibrant developer community to continuously learn, share knowledge, and tackle challenging projects.
+
+I excel in creating innovative solutions that simplify processes and enhance user experiences, leveraging the latest technologies to push the boundaries of what's possible. Beyond coding, I engage in technical discussions, contribute to open-source projects, and stay curious about emerging trends in software development.
 
 - 📫 How to reach me **@Bryansine on twitter, and off.thee.hook__ on instagram**
 
@@ -28,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryansine&show_icons=true&locale=en&layout=compact" alt="bryansine" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryansine&show_icons=true&locale=en" alt="bryansine" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryansine&" alt="bryansine" /></p>
