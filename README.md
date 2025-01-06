@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/bryansine" target="blank"><img src="https://img.shields.io/twitter/follow/bryansine?logo=twitter&style=for-the-badge" alt="bryansine" /></a> </p>
 
 <h4>About me </h4>
-As a backend developer with a strong foundation in software engineering, I thrive on solving complex problems and building scalable, efficient applications. I am a proud graduate of the prestigious ALX Software Engineering Program, **ALX Software Engineering  Program** where I honed my skills in backend development, mastering modern tools and methodologies to deliver impactful solutions.
+As a backend developer with a strong foundation in software engineering, I thrive on solving complex problems and building scalable, efficient applications. I am a proud graduate of the prestigious **ALX Software Engineering Program**, where I honed my skills in backend development, mastering modern tools and methodologies to deliver impactful solutions.
 
 Currently, I am delving deeper into the world of **Django APIs**, exploring advanced concepts in Django, and expanding my knowledge in **data engineering** to broaden my technical expertise. My journey also includes collaborating with a vibrant developer community to continuously learn, share knowledge, and tackle challenging projects.
 
