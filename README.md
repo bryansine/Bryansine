@@ -10,13 +10,13 @@
 <p align="left"> <a href="https://twitter.com/bryansine" target="blank"><img src="https://img.shields.io/twitter/follow/bryansine?logo=twitter&style=for-the-badge" alt="bryansine" /></a> </p>
 
 <h4>About me </h4>
-As a backend developer with a strong foundation in software engineering, I thrive on solving complex problems and building scalable, efficient applications. I am a proud graduate of the prestigious ALX Software Engineering Program, where I honed my skills in backend development, mastering modern tools and methodologies to deliver impactful solutions.
+As a backend developer with a strong foundation in software engineering, I thrive on solving complex problems and building scalable, efficient applications. I am a proud graduate of the prestigious **ALX Software Engineering Program**, where I honed my skills in backend development, mastering modern tools and methodologies to deliver impactful solutions.
 
-Currently, I am delving deeper into the world of Django APIs, exploring advanced concepts in Django, and expanding my knowledge in data engineering to broaden my technical expertise. My journey also includes collaborating with a vibrant developer community to continuously learn, share knowledge, and tackle challenging projects.
+Currently, I am delving deeper into the world of **Django APIs**, exploring advanced concepts in Django, and expanding my knowledge in **data engineering** to broaden my technical expertise. My journey also includes collaborating with a vibrant developer community to continuously learn, share knowledge, and tackle challenging projects.
 
 I excel in creating innovative solutions that simplify processes and enhance user experiences, leveraging the latest technologies to push the boundaries of what's possible. Beyond coding, I engage in technical discussions, contribute to open-source projects, and stay curious about emerging trends in software development.
 
-- 📫 How to reach me **@Bryansine on twitter, and off.thee.hook__ on instagram**
+- 📫 How to reach me **@Bryansine on twitter, and @off.thee.hook__ on instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
