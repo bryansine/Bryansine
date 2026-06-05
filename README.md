@@ -102,6 +102,22 @@
 
 
 
+### 📋 Waera — Task Management
+[![View Project](https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryansine)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://waera-task-management.vercel.app/)
+
+> Kanban board-style task manager with a digital canvas for colourful sticky notes — drag, drop, collaborate.
+
+`React` `Express` `PostgreSQL` `Tailwind CSS` `Sequelize` `shadcn/ui` `JWT` `Blocknote`
+
+✅ Intuitive drag-and-drop Kanban board with real-time updates  
+✅ Digital sticky notes canvas with rich WYSIWYG editing via Blocknote  
+✅ JWT-based user authentication & session management  
+✅ File uploads with Multer & React Dropzone  
+✅ Collaboration-ready architecture with PostgreSQL backend  
+
+> 🚧 **Active Development** — More features shipping soon including OAuth, Clerk auth & Zod validation.
+
 ---
 
 ## 📊 GitHub Stats
