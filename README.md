@@ -1,3 +1,94 @@
+<div align="center">
+
+# 💫 About Me
+
+</div>
+
+🔭 **Currently exploring:** Java fundamentals and the Spring Framework ecosystem — building towards REST APIs, Spring Boot, and beyond.
+
+🤝 **Open to collaborations** in Java, Backend Development, and anything I'm actively learning.
+
+🌱 **Currently learning:** Java → Spring Boot → Spring Data JPA → Spring Security
+
+⚡ **Fun fact:** Every expert was once a beginner — I'm just enjoying the journey.
+
+---
+
+## 💻 Tech Stack
+
+### 🖥️ Programming Languages
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🛠️ Frameworks & Tools
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### 🗄️ Databases
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+> 🔨 Projects coming soon — currently laying the foundation in Java & Spring.
+
+<!-- Uncomment and fill in when ready:
+### 🌐 Project Name
+Short description of what it does.
+- Key feature 1
+- Key feature 2
+- Built with: Java, Spring Boot, PostgreSQL
+-->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryansine&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryansine&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bryansine&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryansine)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://bryansine.io)
 <h1 align="center">Hi 👋, I'm Bryan sine</h1>
 <h3 align="center">A Software Engineer from Nairobi, Kenya</h3>
