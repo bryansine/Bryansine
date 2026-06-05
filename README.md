@@ -1,16 +1,13 @@
-<div align="center">
+## 💫 About Me
 
-# About Me
-
-🔭 **Currently exploring:** Java fundamentals and the Spring Framework ecosystem — building towards REST APIs, Spring Boot, and beyond.
+🔭 **Currently exploring:** Java & Spring Framework, dipping into Blockchain development, and picking up Data Engineering concepts along the way.
 
 🤝 **Open to collaborations** in Java, Backend Development, and anything I'm actively learning.
 
-⚡ **Fun fact:** "I debug in my sleep — literally.!
+⚡ **Fun fact:** "I debug in my sleep — literally. My best fixes happen before I touch the keyboard."
 
 🚀 **OPEN TO OPPORTUNITIES** — Interview me. Hire me. Let's build something great.
 
-</div>
 ---
 
 ## 💻 Tech Stack
@@ -117,6 +114,7 @@
 
 </div>
 
+
 ## ✍️ Random Dev Quote
 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=70A5FD&width=600&lines=Deleted+code+is+debugged+code.+%E2%80%94+Jeff+Sickel)
@@ -133,5 +131,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryansine1738@gmail.com)
 
 </div>
-
-src="https://github-readme-stats.vercel.app/api?username=bryansine&show_icons=true&locale=en" alt="bryansine" /></p>
