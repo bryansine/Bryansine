@@ -1,4 +1,4 @@
-## 💫 About Me
+## About Me
 
 🔭 **Currently exploring:** Java & Spring Framework, dipping into Blockchain development, and picking up Data Engineering concepts along the way.
 
